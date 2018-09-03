@@ -42,12 +42,12 @@
   - 변수 및 상수에 값을 대입할 때, Int, Double, Character, String 등을 지정하지 않아도 자동적으로 근접한 데이터로 입력됨
   
 6 논리연산자 (Boolean Logic) 인 AND(&&) 와 OR(||) 로 나올 수 있는 각각의 4 가지 경우의 수를 작성
-  (1) let A = (참) && (참) : True
-  (2) let A = (참) && (거짓) : False
-  (3) let A = (거짓) && (거짓) : False
-  (4) let A = (참) || (참) : True
-  (5) let A = (참) || (거짓) : True
-  (6) let A = (거짓) || (거짓) : False
+  1. let A = (참) && (참) : True
+  2. let A = (참) && (거짓) : False
+  3. let A = (거짓) && (거짓) : False
+  4. let A = (참) || (참) : True
+  5. let A = (참) || (거짓) : True
+  6. let A = (거짓) || (거짓) : False
   
 
 
