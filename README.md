@@ -1,6 +1,6 @@
 # Pre-work
 
-1 var와let의차이점에대해서술하고예시작성
+1 var와 let의 차이점에 대해 서술하고 예시작성
   - var : 변수(variables)
     - ex) var number1: Int = 10   
           number1 = 100  
