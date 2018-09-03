@@ -19,7 +19,13 @@
     - Character : 1글자만 가능
     - String : 1글자 이상 가능
   
-4 반복문(Loop)의 종류와 예시 코드 
+4 반복문(Loop)의 종류와 예시 코드
+  - if 조건문 {  
+    조건 만족시 실행문  
+    }
+    
+   
+
 
 5 타입 추론(Type Inference)이란?
   - 변수 및 상수에 값을 대입할 때, Int, Double, Character, String 등을 지정하지 않아도 자동적으로 근접한 데이터로 입력됨
