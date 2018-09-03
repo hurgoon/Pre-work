@@ -1,6 +1,6 @@
 # Pre-work
 
-1. var와let의차이점에대해서술하고예시작성
+1 var와let의차이점에대해서술하고예시작성
   - var : 변수(variables)
     - ex) var number1: Int = 10   
           number1 = 100  
@@ -10,7 +10,7 @@
           number2 = 100  
           **Error**
  
-2. Swift 에서 사용하는 정수와 실수 타입(Types)의 종류에 대해 아는 대로 나열하고 차이점을 작성 
+2 Swift 에서 사용하는 정수와 실수 타입(Types)의 종류에 대해 아는 대로 나열하고 차이점을 작성 
   - Int : 정수(integer) 
   - Double : 소수점(float)
   
@@ -27,7 +27,21 @@
     실행문  
     } else {  
     실행문  
-    }
+    }  
+  - if 조건문 {  
+    실행문   
+    } else if 조건문2 {  
+    실행문  
+    } else if 조건문3 {  
+    실행문  
+    } else {  
+    실행문   
+    }  
+   
+    
+
+
+
 
 
 5 타입 추론(Type Inference)이란?
